@@ -1,5 +1,7 @@
 # MediReport – AI-Powered Medical Documentation 🚀  
 
+💊 [Telegram Bot](https://t.me/MediReportBot)
+
 ## Project Description  
 MediReport is an **AI-driven medical documentation assistant** designed to streamline medical record writing while ensuring compliance with **SOAP, ICD-10, and global healthcare standards**. It enables **healthcare professionals** to create structured, accurate, and efficient reports with minimal effort.  
 
