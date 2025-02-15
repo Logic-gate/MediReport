@@ -9,7 +9,6 @@ MediReport is an **AI-driven medical documentation assistant** designed to strea
 - ✅ **Structured Medical Reports** – Follows SOAP format for consistency.  
 - ✅ **ICD-10 & SNOMED Support** – Ensures standardized medical coding.  
 - ✅ **AI-Powered Automation** – Reduces documentation time.  
-- ✅ **Secure & Compliant** – Adheres to **HIPAA, GDPR, and NHS standards**.  
 - ✅ **User-Friendly Interface** – Designed for doctors, nurses, and medical staff.  
 
 ## ⚠️ Important Notice  
