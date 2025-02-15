@@ -22,3 +22,9 @@ MediReport is an **AI-driven medical documentation assistant** designed to strea
 ---
 
 **Welcome to MediReport**, where medical documentation becomes **faster, smarter, and more efficient!** 🎉
+
+## Demo
+
+[![Watch the video](https://baserow.happen.io/media/thumbnails/small/LyMn9xf0fmtBB9aoRaOVbLlu6gRS94OX_8115d0d8ad43c30b1d0354b6e925ee74a460c977b063f457148c4c3566f642ac.png
+)](https://baserow.happen.io/media/user_files/QbpR8q5VLSP9zeydm4caMj3emYwymf7p_2a2434ef34b05440d1b757d203b616514e32ae686d06a5c1eb0a485cbbfa0116.mp4)
+
