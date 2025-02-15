@@ -17,6 +17,9 @@ MediReport is an **AI-driven medical documentation assistant** designed to strea
 
 ## 📌 Get Started  
 🔗 **Register Here:** [MediReport Registration](https://baserow.happen.io/form/fQu4leZMxRZuSYOOsXVl02rikZSyz-4jtgaITVUMBXI)  
+
+⚠️ You need to start the chat with 💊 [MediReportBot](https://t.me/MediReportBot) in order to enroll after your registration. Click on start and wait for the welcoming message.
+
 🐞 **Report Issues:** [Submit an Issue](https://baserow.happen.io/form/DwOBzzeJsmci2g8tZNd6GHHUlgDYrq6007y6P4bNzwY)  
 
 ---
